@@ -3,5 +3,9 @@ Hi!! je change encore :)
 Formation Github
 j'essaie d'éditer ce fichier
 Parfait!! merci Sami;)
+<<<<<<< HEAD
 
 je teste une nouvelle méthode
+=======
+J'ajoute ça aprés new branch
+>>>>>>> origin/AutreBranche
