@@ -1,4 +1,5 @@
-﻿un petit conflict pour tenter
+un petit conflict pour tenter
+Hi!! je change encore :) 
 Formation Github
 j'essaie d'éditer ce fichier
 Parfait!! merci Sami;)
